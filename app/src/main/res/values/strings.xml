@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">crud</string>
+    <string name="newactivity">newactivity</string>
+    <string name="inbox">Inbox</string>
+    <string name="e_g_read_every_day_p3_goal">e.g. Read every day p3 @goal</string>
+    <string name="description">Description</string>
+</resources>
